@@ -10,7 +10,7 @@ A telegram bot that uses an unofficial API to identify phone numbers. Truecaller
 
 
 ## Other Info
-[Bot in use](https://i.imgur.com/QsbRdgX.png)
+![Bot in use](https://i.imgur.com/QsbRdgX.png)
 
 
 Feel free to commit and improve.
