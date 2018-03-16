@@ -1,6 +1,6 @@
 # Truecaller-Bot-Telegram
-A telegram bot that uses an unofficial API to identify phone numbers.
-
+A telegram bot that uses an unofficial API to identify phone numbers. Truecaller finds contact details globally given name or telephone number. It has created this big database by violating user privacy and copying their phonebook onto their database. Using this bot, you can get contact details without giving up your own privacy. You don't need to use their app at all.
+'
 ## Self-Hosting Instructions
 * API Token for the Unofficial API can be obtained from https://tcapi.phphive.info/console/ for free.
 * Use Python3 (and pip3) to install the 'telepot' and 'requests' modules.
