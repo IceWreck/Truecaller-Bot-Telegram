@@ -1,4 +1,6 @@
 # Truecaller-Bot-Telegram
+
+## Edit: The third party API that I used for this is down.
 A telegram bot that uses an unofficial API to identify phone numbers. Truecaller finds contact details globally given name or telephone number. It has created this big database by violating user privacy and copying their phonebook onto their database. Using this bot, you can get contact details without giving up your own privacy. You don't need to use their app at all.
 '
 ## Self-Hosting Instructions
